@@ -1,0 +1,13 @@
+
+Bell_string.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bell
+  rotate: false
+  xy: 2, 2
+  size: 111, 434
+  orig: 111, 434
+  offset: 0, 0
+  index: -1
